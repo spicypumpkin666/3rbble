@@ -35,8 +35,7 @@ LETTER_VALUES = {"A": 1,
                  "W": 4,
                  "X": 8,
                  "Y": 4,
-                 "Z": 10,
-                 "#": 0}
+                 "Z": 10}
 
 class Tile:
     """
@@ -104,7 +103,6 @@ class Bag:
         self.add_to_bag(Tile("X", LETTER_VALUES), 1)
         self.add_to_bag(Tile("Y", LETTER_VALUES), 2)
         self.add_to_bag(Tile("Z", LETTER_VALUES), 1)
-        self.add_to_bag(Tile("#", LETTER_VALUES), 2)
         shuffle(self.bag)
 
     def take_from_bag(self):
@@ -277,7 +275,7 @@ class Word:
         word_score = 0
         global dictionary 
         if "dictionary" not in globals():
-            dictionary = open("dic.txt").read().splitlines()
+            dictionary = open("../../dic.txt").read().splitlines()
 
         current_board_ltr = ""
         needed_tiles = ""
@@ -492,4 +490,4 @@ def end_game():
     if input("\nWould you like to play again? (y/n)").upper() == "Y":
         start_game()
 
-start_game()
+# start_game()
