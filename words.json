@@ -1,0 +1,1727 @@
+{
+    "1/1": {
+        "address": 0,
+        "description": "Shorthand for One-of-One. A unique piece of art. In traditional art, Rembrandt\u2019s Nightwatch is a 1/1. Many Beeple and XCOPY pieces are one of ones. They generally differ from a 10k PFP project(...) Read More",
+        "points": 0
+    },
+    "2FA": {
+        "address": 0,
+        "description": "Short for 2-factor authentication. This is an extra security step, in addition to username and password, used to log in to (web2) websites and services. It is usually in the form of a code that(...) Read More",
+        "points": 0
+    },
+    "10k PFP": {
+        "address": 0,
+        "description": "Shorthand for 10,000 Profile Picture. This term is used to describe an NFT collection of 10,000 or similar numbers of (8,888 are also popular) images designed to be used as profile pictures on(...) Read More",
+        "points": 0
+    },
+    "AB": {
+        "address": 0,
+        "description": "Art Blocks is a platform founded by Erick Calderon / Snowfro and is one of the OG leaders in generative art, which is art made using mathematical algorithms. All ArtBlocks releases store the(...) Read More",
+        "points": 0
+    },
+    "ADA": {
+        "address": 0,
+        "description": "Ticker symbol for the Cardano blockchain. Not much more to say about this as nobody knows what exactly the Cardano project does apart from running a huge YouTube channel. Read More",
+        "points": 0
+    },
+    "AF": {
+        "address": 0,
+        "description": "An abbreviation of \"As [email\u00a0protected]#k\". Can be added to the end of any statement for emphasis. Read More",
+        "points": 0
+    },
+    "AFAICT": {
+        "address": 0,
+        "description": "As Far As I Can Tell. See also AFAIK Read More",
+        "points": 0
+    },
+    "AFAIK": {
+        "address": 0,
+        "description": "As Far As I Know. See also AFAICT. Read More",
+        "points": 0
+    },
+    "Airdrop": {
+        "address": 0,
+        "description": "Coins or  tokens that are \"dropped\" into users wallets without any action on the users part. Similar to food being airdropped from helicopters, free money (or sometimes a scamcoin... beware!) is(...) Read More",
+        "points": 0
+    },
+    "All-In": {
+        "address": 0,
+        "description": "A poker term that found its way into common speech and crypto. Means all your chips / money / tokens / coins are fully invested. You can be all in on a coin, all in on a sector or all in on(...) Read More",
+        "points": 0
+    },
+    "Alpha": {
+        "address": 0,
+        "description": "A term from trad-fi also used in crypto, meaning a piece of knowledge that is new or not common knowledge, very often that can give a trader an edge in the market Read More",
+        "points": 0
+    },
+    "Alpha Leak": {
+        "address": 0,
+        "description": "An apparently accidental statement that gives away or \"leaks\" alpha Read More",
+        "points": 0
+    },
+    "Altcoin": {
+        "address": 0,
+        "description": "A term from the early days of Bitcoin when every coin was either Bitcoin or a fork of Bitcoin. All the non-Bitcoin forks were called altcoins, short for alternative coins, so the world was(...) Read More",
+        "points": 0
+    },
+    "Altseason": {
+        "address": 0,
+        "description": "That period of a bull market right after Bitcoin pumps when people believe that the Bitcoin profits will start to rotate into non-Bitcoin coins, which in turn will pump and moon. Read More",
+        "points": 0
+    },
+    "AMA": {
+        "address": 0,
+        "description": "Ask Me Anything. Usually, an online event where a person of note will spend a given amount of time and take any questions the public will throw at them... hence the name! Read More",
+        "points": 0
+    },
+    "AMM": {
+        "address": 0,
+        "description": "Automated Market Maker - Theorised by @vitalik and pioneered by @uniswap, AMM were one of the groundbreaking introductions that kicked off DeFi summer and DeFi itself by making DEXs possible.(...) Read More",
+        "points": 0
+    },
+    "ANON": {
+        "address": 0,
+        "description": "Short for anonymous, however rarely used as an adjective. Instead, it is generally used as either a means of describing somebody that is anonymous \u2013 they are anon - or used to address the public(...) Read More",
+        "points": 0
+    },
+    "Ape": {
+        "address": 0,
+        "description": "A reference to anthropological studies of primates and humans that show their genetic predisposition to follow the crowd, particularly when in an excited emotional state. The actions observed(...) Read More",
+        "points": 0
+    },
+    "Assets": {
+        "address": 0,
+        "description": "A legacy term for things that are worth money. Traditionally referring to items like jewellery, precious metals, antiques, shares and property. This term can also be applied to Bitcoin (digital(...) Read More",
+        "points": 0
+    },
+    "ATH": {
+        "address": 0,
+        "description": "All Time High. The highest price an asset has reached in the past. The pre-cursor to price discovery\u2026 where we all get rich af. Read More",
+        "points": 0
+    },
+    "Bag Holder": {
+        "address": 0,
+        "description": "A person that is holding a \"bag\" of a particular cryptocurrency and has held it perhaps from ATH down to close to zero. They are at a point where they can hardly sell it due to the immense(...) Read More",
+        "points": 0
+    },
+    "Based": {
+        "address": 0,
+        "description": "Cool, epic, awesome. Often, but not always, in a rebellious middle finger to the establishment way. Read More",
+        "points": 0
+    },
+    "BAYC": {
+        "address": 0,
+        "description": "Bored Ape Yacht Club - the one NFT that everybody wished they had bought. One of the earlier 2021 10k PFP projects, billed as the \"Cryptopunks for people that could not afford cryptopunks\" that(...) Read More",
+        "points": 0
+    },
+    "Bear Market": {
+        "address": 0,
+        "description": "A legacy trad-fi term describing a period when the market goes down.... or even worse goes sideways in a crab market while pretending to go up but over time generally goes down. Bear markets or(...) Read More",
+        "points": 0
+    },
+    "Bear Trap": {
+        "address": 0,
+        "description": "A period of the market when sentiment looks as if the market will go down and bears start to short the market, instead it goes up and bears with short positions are liquidated. A bear trap is(...) Read More",
+        "points": 0
+    },
+    "Bearish": {
+        "address": 0,
+        "description": "The way a bear market makes you feel, speak or act. Read More",
+        "points": 0
+    },
+    "Bearwhale": {
+        "address": 0,
+        "description": "An old-school term from a 2014 story when a Bitcoin whale placed a bearish limit order well below the price at the time. The market tanked, the order was filled, however the Bitcoin price(...) Read More",
+        "points": 0
+    },
+    "Beta": {
+        "address": 0,
+        "description": "Beta (Release) - An IT term to describe the second pre-production release of a piece of software. Usually software will have an alpha release, then the beta will include documentation added to(...) Read More",
+        "points": 0
+    },
+    "Bitcoin": {
+        "address": 0,
+        "description": "A Peer-to-Peer Electronic Cash System. The OG crypto coin created by Satoshi Nakamoto in the seminal white paper of 2008. \"If you don't believe it or don't get it, I don't have the time to try(...) Read More",
+        "points": 0
+    },
+    "Bitcoin Maxi": {
+        "address": 0,
+        "description": "A person that believes Bitcoin was the peak of the cryptocurrency evolution and everything that came after it is a scam and a shitcoin and owners of non-bitcoins are complete idiots and(...) Read More",
+        "points": 0
+    },
+    "Bitcoin Pizza": {
+        "address": 0,
+        "description": "On May 22 in 2010 a Florida man Laszlo Hanyecz paid for two pizzas with 10,000 Bitcoin, which at the time of writing is worth around $400 million. And they were Papa Johns. Ouch Read More",
+        "points": 0
+    },
+    "Block": {
+        "address": 0,
+        "description": "The basis of blockchains are blocks. These are small units of data containing transactions that account for all transactions in a given period of time. If you transfer some crypto, your(...) Read More",
+        "points": 0
+    },
+    "Block Explorer": {
+        "address": 0,
+        "description": "A web interface that allows users to query the contents of the blockchain, like a search engine for the blockchain. Information on the blockchain can be searched like transactions and addresses(...) Read More",
+        "points": 0
+    },
+    "Blockchain": {
+        "address": 0,
+        "description": "A distributed ledger technology created by Satoshi Nakamoto in the Bitcoin whitepaper. Many blockchains exist now such as Bitcoin, Ethereum, Avalanche, BSC etc Read More",
+        "points": 0
+    },
+    "Boomer": {
+        "address": 0,
+        "description": "The person from the \"ok, boomer\" meme. An old, out of touch person with no idea what is going on in the modern world. Coming from the baby boomer generation that are blamed for ruining the world(...) Read More",
+        "points": 0
+    },
+    "Bot": {
+        "address": 0,
+        "description": "An automated account that trolls twitter, swarms Discord or buys mispriced BAYC for DAI instead of ETH. Read More",
+        "points": 0
+    },
+    "Bounty": {
+        "address": 0,
+        "description": "A throwback to wild west days when bounties were offered for catching/killing criminals or ethnic minorities. These days they are offered for bugs in code, of which there is an abundance in(...) Read More",
+        "points": 0
+    },
+    "Bridge": {
+        "address": 0,
+        "description": "A service that facilitates the transfer of coins or tokens from one L1 blockchain to another or from L1 to L2. For example from Ethereum to BSC or from Avalanche to Fantom. Read More",
+        "points": 0
+    },
+    "BSC": {
+        "address": 0,
+        "description": "Binance Smart Chain, also known lovingly as Binance Scam Chain. A \"decentralised\" chain created by the family run Binance exchange. Jokes aside, this was actually called Ce-De-Fi by CZ... which(...) Read More",
+        "points": 0
+    },
+    "BTC": {
+        "address": 0,
+        "description": "Abbreviation for Bitcoin. Read More",
+        "points": 0
+    },
+    "BTD": {
+        "address": 0,
+        "description": "Buy The Fucking Dip - A call to step into the market when it is low and buy the dip, in the expectation that the market will go higher and result in a profit. A frequent call of Twitter(...) Read More",
+        "points": 0
+    },
+    "Buidl": {
+        "address": 0,
+        "description": "Another term for \"Build\", meaning to build software or a community or company in the crypto space. The off spelling is a h/t to the HODL meme. Read More",
+        "points": 0
+    },
+    "Bull Market": {
+        "address": 0,
+        "description": "A period when the markets are going up. A term from legacy finance and originating from the idea of the herd of bulls running that cannot be stopped. A symbol of strength and a force that cannot(...) Read More",
+        "points": 0
+    },
+    "Bull Trap": {
+        "address": 0,
+        "description": "A period of the market when sentiment looks as if the market will go up and bulls start to long the market, instead it goes down and bulls with long positions are liquidated. A bull trap is not(...) Read More",
+        "points": 0
+    },
+    "Bullish": {
+        "address": 0,
+        "description": "The feeling you get during a bull run or when you (correctly or incorrectly) anticipate an imminent a bull run. Unless you are a permabull, in which case you likely feel bullish all the time! Read More",
+        "points": 0
+    },
+    "Burn": {
+        "address": 0,
+        "description": "Coins or tokens that are sent to a wrong address are considered \"burned\" which means they are gone forever and no longer usable. It is the equivalent of literally burning fiat bank notes a la(...) Read More",
+        "points": 0
+    },
+    "Buying on Secondary": {
+        "address": 0,
+        "description": "An NFT term that relates to the period after the mint. Typically, NFTs are minted for the first time from the smart contract in a mint event. Then when all NFTs are claimed or minted, they can(...) Read More",
+        "points": 0
+    },
+    "Cappin": {
+        "address": 0,
+        "description": "General slang meaning lying, faking or larping, sometimes used as \u201cno cap\u201d meaning \u201cno lie\u201d. Read More",
+        "points": 0
+    },
+    "Caretaker": {
+        "address": 0,
+        "description": "Person that sweeps the floor for an NFT project. Sometimes known as a janitor. Read More",
+        "points": 0
+    },
+    "Cash Grab": {
+        "address": 0,
+        "description": "A low quality, low effort project designed only to make money and offer little value to the buyer. This term is often used in relation to poor quality NFT drops. Read More",
+        "points": 0
+    },
+    "CeFi": {
+        "address": 0,
+        "description": "The alternative to DeFi, decentralized finance. Centralised finance includes old school or trad-fi institutions like JP Morgan, Merill Lynch as well as newer centralized crypto exchanges like(...) Read More",
+        "points": 0
+    },
+    "Centralised": {
+        "address": 0,
+        "description": "Where a service is provided by a business running a central order book, hosting on central servers and generally run by one or a small group of individuals with decision making power. The(...) Read More",
+        "points": 0
+    },
+    "CEX": {
+        "address": 0,
+        "description": "A (crypto) exchange operated by a centralized authority or entity e.g. Coinbase or Binance. The alternative to a DEX, or dentralized exchange like Uniswap or Sushiswap. Read More",
+        "points": 0
+    },
+    "Chad": {
+        "address": 0,
+        "description": "This started as a stereotypical frat-boy - a young, wannabe alpha male with huge ego that looks a little like Jonny Bravo (for boomers that remember him). In crypto culture it has evolved to(...) Read More",
+        "points": 0
+    },
+    "CM": {
+        "address": 0,
+        "description": "A community manager is a team member who looks after communication and engagement strategies for a project within their online communities. Usually, teams will have multiple CM's with different(...) Read More",
+        "points": 0
+    },
+    "CodeGrind": {
+        "address": 0,
+        "description": "A relentless (almost inhuman) grind over an extended period of time. Coined by CodeRave's grind to Omnipillar in the Toddlerpillars discord where he posted once a minute for 52 hours straight! Read More",
+        "points": 0
+    },
+    "Cold Wallet": {
+        "address": 0,
+        "description": "A cold wallet, also known as a hardware wallet, is a physical device (usually resembling a USB stick) that is used to store your private keys completely offline - imagine it as your own private(...) Read More",
+        "points": 0
+    },
+    "Collateral": {
+        "address": 0,
+        "description": "Something that is accepted as security for a loan. IRL this could be a property in exchange for a mortgage. In web3, this could be digital assets such as Ethereum, stablecoins or an NFT. Read More",
+        "points": 0
+    },
+    "Collection": {
+        "address": 0,
+        "description": "A collection is a series of NFTs minted from the same smart contract. Read More",
+        "points": 0
+    },
+    "Collector": {
+        "address": 0,
+        "description": "A person who buys art or NFTs. Read More",
+        "points": 0
+    },
+    "Consensus Mechanism": {
+        "address": 0,
+        "description": "This is the method by which a blockchain decides on a single state of the network as well as which transactions and blocks to add to the chain. Because blockchains are operated by a large number(...) Read More",
+        "points": 0
+    },
+    "Conviction": {
+        "address": 0,
+        "description": "A strong, positive feeling about a project's ability to deliver on its roadmap and build value. Read More",
+        "points": 0
+    },
+    "COPE": {
+        "address": 0,
+        "description": "Unsuccessfully dealing (or pretending to be ok) with missing out on an opportunity because of a terrible decision. Read More",
+        "points": 0
+    },
+    "Copycat": {
+        "address": 0,
+        "description": "An NFT project that copies the appearance of an existing project. Read More",
+        "points": 0
+    },
+    "Copypasta": {
+        "address": 0,
+        "description": "Oh\u2026 what would crypto twitter be without copypasta. We come for the riches but we ultimately stay for the entertainment. Copypasta certainly provides the latter. When some (semi-) famous person(...) Read More",
+        "points": 0
+    },
+    "Cozomo de\u2019 Medici": {
+        "address": 0,
+        "description": "An anonymous NFT collector on CT. The name is taken from a member of the Medici banking family of Florence in the 15th Century who became a patron of the arts and invested the equivalent of tens(...) Read More",
+        "points": 0
+    },
+    "Crab Market": {
+        "address": 0,
+        "description": "That most excruciating of market conditions that often occurs after a bull run and crash. It gives all the signs of returning to bull\u2026 only to stop after a 5% increase, flatline, then drop 5%,(...) Read More",
+        "points": 0
+    },
+    "Crash the Blockchain": {
+        "address": 0,
+        "description": "When an influencer comes into the NFT space and launches a project, they may claim that they can crash the blockchain. LOL. Read More",
+        "points": 0
+    },
+    "Creator": {
+        "address": 0,
+        "description": "General term for an artist. Also, the person who created the asset for the NFT, e.g. the code, jpg or the mp3 file. Read More",
+        "points": 0
+    },
+    "Crypto Community": {
+        "address": 0,
+        "description": "In a general sense, it is the like-minded people (degens) around the world with an interest in crypto, NFTs and web3 who are hanging out in the metaverse and IRL\u2026 though most likely they will be(...) Read More",
+        "points": 0
+    },
+    "Cryptocurrency": {
+        "address": 0,
+        "description": "A bankless digital currency that runs on a distributed public ledger and enables anyone anywhere to send and receive payments without reliance on a central authority (such as a bank or government). Read More",
+        "points": 0
+    },
+    "CryptoPunks": {
+        "address": 0,
+        "description": "The original, OG 10k PFP project. Created by LarvaLabs in 2017, cryptopunks is generally recognised as the first generative collection of NFTs. They are 24 x 24 pixels that are an homage to the(...) Read More",
+        "points": 0
+    },
+    "CT": {
+        "address": 0,
+        "description": "A sub-section of Twitter used by the Crypto community. Many people make a new Twitter account specifically for CT to stay on top of crypto news, follow influencers and network with others in the(...) Read More",
+        "points": 0
+    },
+    "CZ": {
+        "address": 0,
+        "description": "Changpeng Zhao is the founder of the popular crypto exchange, Binance. CZ reminds us of the pirates of the carribean that stuck their middle fingers up at every member of the establishment. CZ(...) Read More",
+        "points": 0
+    },
+    "DAO": {
+        "address": 0,
+        "description": "A DAO is an entity with no central point of authority. It is essentially a member-owned crypto community with a shared wallet and distinct token. Amongst other utilities, the token gives(...) Read More",
+        "points": 0
+    },
+    "dApp": {
+        "address": 0,
+        "description": "A dApp is a software application that is built on a decentralised network (e.g. a blockchain) and is a combination of a front end user interface and a smart contract. Read More",
+        "points": 0
+    },
+    "Data": {
+        "address": 0,
+        "description": "In web3, data has come to mean an individual's personal information such as name, age, location, card details, habits, etc. Read More",
+        "points": 0
+    },
+    "Decentralised": {
+        "address": 0,
+        "description": "A way of operating without being governed by a central authority. Instead, the system is spread across multiple points of authority. For example, a peer-to-peer network. Read More",
+        "points": 0
+    },
+    "Ded": {
+        "address": 0,
+        "description": "Short for dead / deceased. Also means when you do something so bad or stupid that you wished you were ded. Closely related to rekt. Read More",
+        "points": 0
+    },
+    "DeFi": {
+        "address": 0,
+        "description": "The recreation of traditional financial services like borrowing and lending in a permissionless manner on decentralised blockchains. Only code and logic decide what happens e.g. how much you can(...) Read More",
+        "points": 0
+    },
+    "Degen": {
+        "address": 0,
+        "description": "An affectionate and self-assigned term that members of the crypto world refer to themselves and others. Even though it stems from Degenerate or Degenerative Gambler, it is generally used as a(...) Read More",
+        "points": 0
+    },
+    "Delist": {
+        "address": 0,
+        "description": "Cancel your NFT listing on a marketplace and remove it from sale. Alternatively an exchange may delist a token for some reason, either because of bad press or in the case of NFTs a copyright issue. Read More",
+        "points": 0
+    },
+    "Devs Do Something": {
+        "address": 0,
+        "description": "This comes from one of the best ever copypasta where a rekt degen begs devs to do something to save their investment. It parodies the idea that technical support (the devs) are there to fix the(...) Read More",
+        "points": 0
+    },
+    "Diamond Hands": {
+        "address": 0,
+        "description": "A collector with diamond hands is able to resist panicking and hold onto an investment even when the price dips...believing that the price will rebound. Their hands are strong and tough as(...) Read More",
+        "points": 0
+    },
+    "Digital Collectibles": {
+        "address": 0,
+        "description": "The general term for NFTs that may not be fine art but are part of a series that is collectible. Collectibles include rare pepes, NBA topshots, as well as 10k PFPs. Read More",
+        "points": 0
+    },
+    "Dildo": {
+        "address": 0,
+        "description": "A term applied to extremely large candles on the trading charts of assets, mainly used for crypto assets. Typically there is a very long solid candle with a wick that with a little imagination(...) Read More",
+        "points": 0
+    },
+    "Dip": {
+        "address": 0,
+        "description": "A (hopefully) temporary decrease in the price of an asset. A good time to BTFD. Read More",
+        "points": 0
+    },
+    "Discord": {
+        "address": 0,
+        "description": "A community messaging tool that, apart from CT, is the primary place for crypto and NFT projects to communicate with their community. It was originally used by gamers to chat while playing(...) Read More",
+        "points": 0
+    },
+    "Dog Coins": {
+        "address": 0,
+        "description": "A strange phenomenon where billions of dollars are poured into coins that are represented by pictures of dogs, often Shiba Inu dogs, and have very few additional properties or benefits. The(...) Read More",
+        "points": 0
+    },
+    "DOGE": {
+        "address": 0,
+        "description": "The OG daddy of all dog coins is Doge coin which was started as a joke and was abandoned by its creator. It is known as a meme coin, because its visual identity is based on a Shiba Inu dog from(...) Read More",
+        "points": 0
+    },
+    "Dolphin": {
+        "address": 0,
+        "description": "A lesser used term to describe a trader that is not quite a whale and not quite a fish. To be honest, this is rarely used! Read More",
+        "points": 0
+    },
+    "Down Only": {
+        "address": 0,
+        "description": "The opposite, but more rarely used, version of Up Only. That period in a market where everything seems to only go down. See also Bear Market and Bera. Read More",
+        "points": 0
+    },
+    "Dox": {
+        "address": 0,
+        "description": "The act of revealing your own or someone else's identity online. Originates from the act of publicly sharing documents (or docs) online. Back in the real hacker days, a computer may be hacked(...) Read More",
+        "points": 0
+    },
+    "Drippy": {
+        "address": 0,
+        "description": "Also originating from the twitch/gaming world, drippy alludes to something cool, epic, awesome or OP. A ridiculous abundance of swag. Drippy is when someone or something is totally \ud83d\udd25. Read More",
+        "points": 0
+    },
+    "Drop": {
+        "address": 0,
+        "description": "A new NFT release, often a collection. Read More",
+        "points": 0
+    },
+    "Dutch Auction": {
+        "address": 0,
+        "description": "An auction that starts high and gradually gets lower until the market determines a \"fair\" price. For example, an NFT piece may list for 5 ETH and every 5 minutes reduce by 0.5 ETH. There may be(...) Read More",
+        "points": 0
+    },
+    "DYOR": {
+        "address": 0,
+        "description": "Do Your Own Research. A term used as a generic disclaimer by anyone when discussing or recommending certain coins, NFTs or anything else in life. Very often people will shill absolute crap and(...) Read More",
+        "points": 0
+    },
+    "EIP": {
+        "address": 0,
+        "description": "Ethereum Improvement Proposal. A suggested change to the Ethereum codebase to add new functionality, fix a bug etc. EIPs are voted on by the community and if approved are implemented. Similar to(...) Read More",
+        "points": 0
+    },
+    "EIP-1559": {
+        "address": 0,
+        "description": "This Ethereum Improvement Proposal was to burn a small amount of ETH every time a transaction is made. With enough transactions, this could make ETH deflationary and more attractive as a store(...) Read More",
+        "points": 0
+    },
+    "ERC": {
+        "address": 0,
+        "description": "ERC is an Ethereum term and stands for \"Ethereum request for comment\"\nIt is a tool and process used to introduce and get feedback from developers on technical proposals. Think of it like a(...) Read More",
+        "points": 0
+    },
+    "ERC-20": {
+        "address": 0,
+        "description": "A token standard used on Ethereum and EVM compatible networks that allows developers to build token applications that are interoperable with other products and services. In practice, it allows(...) Read More",
+        "points": 0
+    },
+    "ERC-721": {
+        "address": 0,
+        "description": "A token standard for NFTs. The most widely used token standard today. Read More",
+        "points": 0
+    },
+    "ERC-1155": {
+        "address": 0,
+        "description": "A token standard for fungible and NFTs co-created by Enjin. Read More",
+        "points": 0
+    },
+    "ETH": {
+        "address": 0,
+        "description": "ETH is shorthand for Ether. It is the second largest digital currency by market cap apart from Bitcoin. It's common for noobs to mix up Ethereum and ETH. Ethereum is the blockchain while ETH is(...) Read More",
+        "points": 0
+    },
+    "Ethereum": {
+        "address": 0,
+        "description": "Ethereum isn't a cryptocurrency. It also isn't just a passion project of one introverted boy who had always been good at math. Ethereum is the blockchain behind the cryptocurrency Ether (ETH)(...) Read More",
+        "points": 0
+    },
+    "Exit Liquidity": {
+        "address": 0,
+        "description": "This is basically what you do not want to be. All markets are based on liquidity i.e., the amount of money available in a market. Go to coin gecko or CMC and look at the average 24-hour trading(...) Read More",
+        "points": 0
+    },
+    "F in the Chat": {
+        "address": 0,
+        "description": "Again, from the gaming world coming to crypto. To pay your respects. This originated when Call of Duty asked players to press F on their keyboard to \u201cpay respects\u201d to virtual fallen players. Read More",
+        "points": 0
+    },
+    "Fan Token": {
+        "address": 0,
+        "description": "A fan token is a cryptocurrency created by an individual or group with an audience, often a sports team, that allows its holders participation in the team's governing activities while gaining(...) Read More",
+        "points": 0
+    },
+    "Fanboy": {
+        "address": 0,
+        "description": "Often gender neutral. Blindly devoted fans of a project or a token. They are the biggest shillers and defenders of a project, and the greatest HODLERs. An organic army of fanboys is a project\u2019s(...) Read More",
+        "points": 0
+    },
+    "Farm": {
+        "address": 0,
+        "description": "Crypto farms are banks of computers that mine, or create, crypto tokens. To be more environmentally friendly, they are often powered by the by-products of fossil fuel production. These farms(...) Read More",
+        "points": 0
+    },
+    "Fat Fingered": {
+        "address": 0,
+        "description": "A devastating affliction that affects NFTers. They are preparing to sell an NFT for 3.5ETH and accidently put the NFT on sale for 0.35ETH by fat fingering the listing. Or they list an NFT for 25(...) Read More",
+        "points": 0
+    },
+    "Faucet": {
+        "address": 0,
+        "description": "Faucet comes from a word for water tap sometimes used in the US. In crypto it is a service that dispenses free cryptocurrency. Don't get too excited, it is usually for a test network like(...) Read More",
+        "points": 0
+    },
+    "FCFS": {
+        "address": 0,
+        "description": "First Come First Served. A throwback to the good old ICO days of 2017 when people would queue up to throw their money into scamcoins!! Read More",
+        "points": 0
+    },
+    "Few": {
+        "address": 0,
+        "description": "Abbreviation for \"Few understand this\", the precise origins of which we are not exactly sure. It is used by \"experts\" that wish to appear intelligent and talk down to the masses by dropping some(...) Read More",
+        "points": 0
+    },
+    "Fiat": {
+        "address": 0,
+        "description": "A term for traditional money issued by nation states in modern times which is backed by neither gold, silver nor any other item and has no intrinsic value other than the authority of the state.(...) Read More",
+        "points": 0
+    },
+    "Fish": {
+        "address": 0,
+        "description": "Typically, in the old school New York money markets and more recently in crypto, a whale is an extremely rich investor. The opposite would be a fish or little fish, that has a small portfolio to(...) Read More",
+        "points": 0
+    },
+    "Flex": {
+        "address": 0,
+        "description": "Show off your wealth or general dominance in an ostentatious way. Read More",
+        "points": 0
+    },
+    "Flip": {
+        "address": 0,
+        "description": "To buy and sell something in true Arthur Daly fashion. Read More",
+        "points": 0
+    },
+    "Flippening": {
+        "address": 0,
+        "description": "The moment our Lord and Saviour Vitalik ascends to his rightful throne. AKA when the marketcap of Ethereum overtakes Bitcoin. Read More",
+        "points": 0
+    },
+    "Floor is Lava": {
+        "address": 0,
+        "description": "When an NFT project\u2019s floor is being bought up quickly and the cheapest price is rising fast, the floor is lava. This can occur from massive whale sweeps or a mention on @garyvee\u2019s podcast. Read More",
+        "points": 0
+    },
+    "Floor Price": {
+        "address": 0,
+        "description": "The lowest price of an NFT within a collection that\u2019s available to buy. Can be a good metric for the health of a project. Read More",
+        "points": 0
+    },
+    "Floor Sweeping": {
+        "address": 0,
+        "description": "The glorious sight of whales coming into a project and buying up the cheapest NFTs in bulk. Possibly the most exciting thing an NFT hodler can watch. Read More",
+        "points": 0
+    },
+    "FML": {
+        "address": 0,
+        "description": "Fuck my life. Let\u2019s roleplay for a second; You had 2 choices to mint on the day. The one you choose has a bug in the contract and the Devs have disappeared. The other one has mooned and is(...) Read More",
+        "points": 0
+    },
+    "FOMO": {
+        "address": 0,
+        "description": "Fear of missing out. The most contagious affliction of Web3 and a sure-fire way to drain your accounts. Only zen trading can avoid this. Read More",
+        "points": 0
+    },
+    "FOMO-in": {
+        "address": 0,
+        "description": "You know you are late to a project. But it\u2019s mooning and you don\u2019t want to be the only sucker to miss out. That\u2019s when you FOMO-in. Read More",
+        "points": 0
+    },
+    "FR": {
+        "address": 0,
+        "description": "For real. The perfect way to show total surprise at a crypto or NFT-inspired event. Or to reinforce something that you said, especially if used twice. Read More",
+        "points": 0
+    },
+    "Fractionalise": {
+        "address": 0,
+        "description": "Dividing ownership of an asset such as an NFT or a Bitcoin into smaller fractions. As an owner, can help make illiquid jpegs liquid. As a buyer can be a great way to get access to a community or(...) Read More",
+        "points": 0
+    },
+    "Freecoiner": {
+        "address": 0,
+        "description": "If you receive crypto currency as part of an airdrop, as a gift or by other means, congratulations! You\u2019re now a freecoiner and you can\u2019t lose. Read More",
+        "points": 0
+    },
+    "Fren": {
+        "address": 0,
+        "description": "Short for friend in the web3 space meaning a fellow crypto or NFT enthusiast, especially one that has invested in the same coin or project as you have. Read More",
+        "points": 0
+    },
+    "FUD": {
+        "address": 0,
+        "description": "Fear, uncertainty and doubt. Used to put downward pressure on the price of a coin or NFT. FUD is often spread about new NFT projects, often unfairly to tank the floor price. This can be done to(...) Read More",
+        "points": 0
+    },
+    "FUDDER": {
+        "address": 0,
+        "description": "A spreader of fear, uncertainty and doubt. Expel these from your project Discord with extreme swiftness and care. Read More",
+        "points": 0
+    },
+    "Fudding Your Own Bags": {
+        "address": 0,
+        "description": "The cardinal sin of Web3. When someone starts talking smack of a project that they own themselves. It makes no sense and hurts their own bottom line. Can be contagious. Read More",
+        "points": 0
+    },
+    "Full Node": {
+        "address": 0,
+        "description": "A full node contains a blockchain\u2019s entire history and verifies transactions for it. Running a full node helps to secure the blockchain for everyone. Read More",
+        "points": 0
+    },
+    "Fungible": {
+        "address": 0,
+        "description": "Something that is fungible can be replaced or exchanged for an identical item. 1 ETH for another, one ten-dollar bill is the same as another, a gold coin could be swapped for another gold coin(...) Read More",
+        "points": 0
+    },
+    "Future of France": {
+        "address": 0,
+        "description": "A mispronunciation or autocorrect of the \u2018Future of Finance\u2019. Can be used ironically when talking with normies, who don\u2019t really understand the impacts of Web3. Read More",
+        "points": 0
+    },
+    "G": {
+        "address": 0,
+        "description": "Gangster. A term of endearment. Read More",
+        "points": 0
+    },
+    "Gains": {
+        "address": 0,
+        "description": "Gains are the profits or value increases you\u2019ve made on an NFT or crypto currency. Read More",
+        "points": 0
+    },
+    "Gas": {
+        "address": 0,
+        "description": "One of life\u2019s necessary evils. Gas is the transaction fee you pay when interacting with the Ethereum blockchain. If the traffic is high at the time, the fee can skyrocket into $000\u2019s. Read More",
+        "points": 0
+    },
+    "Generative Art": {
+        "address": 0,
+        "description": "Beautiful code that is randomly generated, created and stored on the blockchain. It looks visually stimulating to all that live inside The Matrix. Read More",
+        "points": 0
+    },
+    "Genesis Block": {
+        "address": 0,
+        "description": "The original block of a blockchain network. All other blocks on the blockchain consider this one their grandad. It\u2019s akin to the first brick in a wall. Read More",
+        "points": 0
+    },
+    "Genesis Drop": {
+        "address": 0,
+        "description": "This is the first NFT released by a creator, hopefully to an eager audience who will snap it up quickly. Generally the rarest and most expensive of a collection, hodlers are considered OG. Read More",
+        "points": 0
+    },
+    "GG": {
+        "address": 0,
+        "description": "Like many crypto terms, this originated in gaming culture, and means Good Game. Read More",
+        "points": 0
+    },
+    "GM": {
+        "address": 0,
+        "description": "The greeting of crypto twitter and NFTers all around the world. Its origins stem from \u201cGood Morning\u201d but it is to be used all times of the day. Became slightly cringe for a period when big(...) Read More",
+        "points": 0
+    },
+    "GMI": {
+        "address": 0,
+        "description": "Gonna make it. The most satisfying thing you will hear in the NFT world. It\u2019s when someone is telling you that everything will be alright and that you made the right call. Read More",
+        "points": 0
+    },
+    "GN": {
+        "address": 0,
+        "description": "Good night. Whilst we all chase different NFT projects and shitcoins, at the end of the day, we are all brothers and sisters in Web3. So we wish each other a GN, sleep off the caffeine for a few(...) Read More",
+        "points": 0
+    },
+    "GOAT": {
+        "address": 0,
+        "description": "Greatest of all time. Can refer to anything \u2013 people, project, art trait or even Tom Brady. Because whilst @TomBrady used to be the GOAT of the NFL, since he entered the crypto space and bought(...) Read More",
+        "points": 0
+    },
+    "GOD CANDLE": {
+        "address": 0,
+        "description": "The largest candle on a crypto trading chart. You don\u2019t want to miss these. Often created by unforeseen events, it the kind of thing that will give you a rise in your pants. Read More",
+        "points": 0
+    },
+    "Grail": {
+        "address": 0,
+        "description": "Someone\u2019s ultimate NFT. Whether comprised of a particular collection of traits, colours or just something done by an artist. But like the Highlander says \u201cThere can only be one\u201d. Read More",
+        "points": 0
+    },
+    "Grind": {
+        "address": 0,
+        "description": "The Web3 version of the chores you did as a kid. The reward is being whitelisted for a drop. Inviting 5 friends to a channel, posting a message every minute for an hour \u2013 settle in because the(...) Read More",
+        "points": 0
+    },
+    "GTD": {
+        "address": 0,
+        "description": "Going to dust. Say goodbye to that crypto token or NFT you bought. Gonna be worthless soon fren. Read More",
+        "points": 0
+    },
+    "GTFO": {
+        "address": 0,
+        "description": "Get the fuck out. Could be used positively or negatively. Both variants convey maximum surprise. Read More",
+        "points": 0
+    },
+    "Gwei": {
+        "address": 0,
+        "description": "Each Ethereum token is made up of 1 billion gwei. It\u2019s also the unit that Ethereum gas fees are charged in. Pronounce like \u201cway\u201d with a g before it. The standard gas transaction is 21,000 gwei.(...) Read More",
+        "points": 0
+    },
+    "Hard Fork": {
+        "address": 0,
+        "description": "A hard fork splits a blockchain into two but allows both branches to keep working simultaneously. Creating this permanent divergence can help upgrade the blockchain as long as the community all(...) Read More",
+        "points": 0
+    },
+    "Hashing": {
+        "address": 0,
+        "description": "The algorithmic approach of converting the data into a arbitrary length and specific type of string based on formula. Read More",
+        "points": 0
+    },
+    "Hashrate": {
+        "address": 0,
+        "description": "AKA hash power is the rate at which a computer solve complex cryptographic puzzles to mine / create cryptocurrency on a POW blockchain. Can also be applied to a collection of networked, e.g. the(...) Read More",
+        "points": 0
+    },
+    "HEN": {
+        "address": 0,
+        "description": "Congrats on stumbling onto one of the lesser known, more random corners of the NFT world. The Hic et Nunc Marketplace on the Tezos blockchain. Don\u2019t know how you got there but enjoy! You\u2019re in(...) Read More",
+        "points": 0
+    },
+    "HFSP": {
+        "address": 0,
+        "description": "Have fun staying poor. What bitcoin hodlers say to normies and shitcoin holders who don\u2019t hold Bitcoin. Udi Wertheimer coined the phrase to troll non Bitcoiners and crypto-heads. And we all pray(...) Read More",
+        "points": 0
+    },
+    "HODL": {
+        "address": 0,
+        "description": "The original and best Bitcoin / crypto meme. The result of a late night rant on Bitcoin talk forum circa 2014, when a BTC holder misspelled the word HOLD. In true copypasta style, it was seized(...) Read More",
+        "points": 0
+    },
+    "Holding the Bag": {
+        "address": 0,
+        "description": "The Web3 version of being caught with your pants down. When a crypto asset drops value quickly, those left that didn\u2019t sell are holding the bag. Generally worthless now, it\u2019s akin to having(...) Read More",
+        "points": 0
+    },
+    "Honey Pot": {
+        "address": 0,
+        "description": "A honey pot is a very sneaky crypto trap. A smart contract looks to have an exploit. Users who discover it look to exploit it but get exploited themselves by the honey pot. Instead of stealing(...) Read More",
+        "points": 0
+    },
+    "Hopium": {
+        "address": 0,
+        "description": "Mix hope with the addictiveness of opium. In the echo chambers of Twitter and Discord, the hopium of a struggling project or coin can be all that gets hodlers through. But goddam it can be fun. Read More",
+        "points": 0
+    },
+    "Hot Wallet": {
+        "address": 0,
+        "description": "A hot wallet is a cryptocurrency wallet that is connected to the internet with the private keys also accessible on the internet. Storing assets in this way can leave them susceptible to a hack.(...) Read More",
+        "points": 0
+    },
+    "ICO": {
+        "address": 0,
+        "description": "ICO is the acronym for Initial Coin Offering. It was the fund raising process of choice of Ethereum based blockchain companies in the 2017 bull cycle. To a large extent, it was reliving the(...) Read More",
+        "points": 0
+    },
+    "IDEK": {
+        "address": 0,
+        "description": "I don\u2019t even know. Can often be the answer to why someone degens into something regrettable. Read More",
+        "points": 0
+    },
+    "IDK": {
+        "address": 0,
+        "description": "I don\u2019t know. Rarely heard in the NFT and crypto space. Everyone has an opinion and everyone knows anything worth knowing. Read More",
+        "points": 0
+    },
+    "IEO": {
+        "address": 0,
+        "description": "Initial Exchange Offering. When a cryptocurrency exchange releases a token for sale to its members to buy within its platform. The supposed benefit of this is that there is more vetting of the(...) Read More",
+        "points": 0
+    },
+    "Illiquid": {
+        "address": 0,
+        "description": "When a crypto or NFT project turns into a graveyard. This refers to when sales have stopped and the momentum is gone. It can also refer to when you don\u2019t have any ETH to spend on NFTs. Or you(...) Read More",
+        "points": 0
+    },
+    "Imma": {
+        "address": 0,
+        "description": "I\u2019m going to\u2026 Read More",
+        "points": 0
+    },
+    "Immutable": {
+        "address": 0,
+        "description": "One of the core principles of blockchain technology and NFTs. Immutable means that something can\u2019t be changed, modified or altered after creation. When an NFT is on the blockchain, its(...) Read More",
+        "points": 0
+    },
+    "IMX": {
+        "address": 0,
+        "description": "Short for ImmutableX, an NFT marketplace that appears on the Ethereum layer 2 network. Transactions require no gas fees and can perform instant trades. With heavy investing by the gaming(...) Read More",
+        "points": 0
+    },
+    "IPFS": {
+        "address": 0,
+        "description": "AKA the Interplanetary File System is a peer-to-peer (p2p) network that stores files across the globe. Aiming to be the HTTP killer, it\u2019s at the forefront of Web3 adoption. IPFS is cheaper to(...) Read More",
+        "points": 0
+    },
+    "Its Money Laundering": {
+        "address": 0,
+        "description": "The battle cry of everyone who doesn\u2019t understand NFTs and gets jealous of the huge gains. The buyer is accused of money laundering, although we all know the blockchain doesn\u2019t lie and is(...) Read More",
+        "points": 0
+    },
+    "IYKYK": {
+        "address": 0,
+        "description": "If you know you know. If you\u2019re reading this definition and Web3 guide, then you\u2019re GMI. Because IYKYK. Read More",
+        "points": 0
+    },
+    "JOMO": {
+        "address": 0,
+        "description": "Joy of missing out. This is when you dodge a crypto or NFT bullet. You might have been disappointed for a second, but as the price crashes, the JOMO intensifies. Read More",
+        "points": 0
+    },
+    "JPEG": {
+        "address": 0,
+        "description": "The NFT community have reclaimed this insult and now wear it as a badge of pride. Previously, the \u2018right-click-savers\u2019 would call our precious NFTs JPEGs. Whilst it hurt initially, now it\u2019s just(...) Read More",
+        "points": 0
+    },
+    "Kevin": {
+        "address": 0,
+        "description": "When you launch an NFT project to such hype, and then fail to deliver in such spectacular fashion, you have launched a Kevin. Named after the @pixelmon disaster and the green abomination(...) Read More",
+        "points": 0
+    },
+    "Key": {
+        "address": 0,
+        "description": "Like a physical key, your crypto key provides access to your crypto wallets. In cryptography, messages are secured by a combination of public and private keys. Appearing as a large string of(...) Read More",
+        "points": 0
+    },
+    "KLF": {
+        "address": 0,
+        "description": "Without them or anybody else knowing it at the time, they were the grandfathers of NFT culture. A UK acid house band from early 1990's, best known for their greatest hit \"Last Train To Trance(...) Read More",
+        "points": 0
+    },
+    "KMS": {
+        "address": 0,
+        "description": "Kill myself. Not in the literal sense, but something really bad has happened. A coin has mooned after you just sold it, you bought the wrong NFT or you just listened to the wrong info. Read More",
+        "points": 0
+    },
+    "KOL": {
+        "address": 0,
+        "description": "Key opinion leader. AKA influencer. The crypto and NFT space has many outspoken KOLs in social media. Just ask them. Read More",
+        "points": 0
+    },
+    "Larp": {
+        "address": 0,
+        "description": "A fraud, a faker. A person pretending to be someone they are not or to have done something they did not do. Comes from the Live Action Role Play games where people would dress up and act out the(...) Read More",
+        "points": 0
+    },
+    "Larva Labs": {
+        "address": 0,
+        "description": "A New York design studio at the forefront of the NFT world. Creators of @cryptopunks, @meebits and @autoglyphs, their place amongst the Ethereum Hall of Fame is undeniable. Read More",
+        "points": 0
+    },
+    "Laser Eyes": {
+        "address": 0,
+        "description": "A bull market condition that Bitcoin maxis seem to contract that alters their Twitter PFP in the hope that $BTC will hit $100k. Generally lasts 1-2 months. Read More",
+        "points": 0
+    },
+    "Layer 1": {
+        "address": 0,
+        "description": "Layer 1 refers to the main layer of a blockchain. Ethereum, Solana and Avalanche are all Layer 1 tokens. Layer 1 blockchains all battle with what @Vitalik called the blockchain trilemma -(...) Read More",
+        "points": 0
+    },
+    "Layer 2": {
+        "address": 0,
+        "description": "Layer 2 is the secondary framework built on top of an existing blockchain. Its main goal is to solve transaction speed and scaling difficulties that Layer 1 blockchains encounter. The Ethereum(...) Read More",
+        "points": 0
+    },
+    "Learn to Earn": {
+        "address": 0,
+        "description": "Learn new concepts and earn web3 rewards. Watch videos, take courses, read articles, score quizzes and earn web3 assets (tokens) in return. Read More",
+        "points": 0
+    },
+    "LFG": {
+        "address": 0,
+        "description": "Let\u2019s fucking go. The rallying cry of the crypto community when something is pumping. If this doesn\u2019t motivate you, nothing will. Read More",
+        "points": 0
+    },
+    "Light Node": {
+        "address": 0,
+        "description": "The little brother of blockchain nodes, light nodes download just enough data to process and verify transactions. Whereas full nodes store a blockchain\u2019s complete history. Read More",
+        "points": 0
+    },
+    "Liquid": {
+        "address": 0,
+        "description": "A coin or NFT project is liquid when buyers and sellers are lining up to do business. The market is liquid, prices are fair and everyone is happy. It\u2019s a beautiful sight. Read More",
+        "points": 0
+    },
+    "Liquidity": {
+        "address": 0,
+        "description": "This refers to how easily an asset can be flipped. We love liquidity. NFT degens usually have no liquidity and are perpetually ETH-free. Read More",
+        "points": 0
+    },
+    "Liquidity Pool": {
+        "address": 0,
+        "description": "Used in AMMs or DEXs like Uniswap, a liquidity pool is, as it sounds, a pool of crypto assets used to facilitate trades. A typical liquidity pool may consist of two assets, e.g. ETH and USDT.(...) Read More",
+        "points": 0
+    },
+    "LMFAO": {
+        "address": 0,
+        "description": "Laughing my fucking ass off. An extension of LMAO. Saying something so outlandish that it doesn\u2019t make sense - an all-too common occurrence in the Web3 world today. A recent example would be an(...) Read More",
+        "points": 0
+    },
+    "Looks Rare": {
+        "address": 0,
+        "description": "Rarity is important within an NFT collection. However, if someone comments on your newly minted PFP that it \u201clooks rare\u201d, it could be ironically. This may create a flipping desire. It\u2019s also the(...) Read More",
+        "points": 0
+    },
+    "Lurk": {
+        "address": 0,
+        "description": "Lurkers get a pretty bad wrap in the Discord world. They are generally inactive, but always seem online and even occasionally post a reaction. Someone could lurk because English isn\u2019t their main(...) Read More",
+        "points": 0
+    },
+    "Magic Internet Money": {
+        "address": 0,
+        "description": "What normies call crypto currency. Originally posted on Reddit as part of a Bitcoin advertisement, the MSPaint illustration of a wizard has been a badge of honour since 2013. Also a formerly(...) Read More",
+        "points": 0
+    },
+    "Mainnet": {
+        "address": 0,
+        "description": "A mainnet is the Layer 1 of a blockchain where actual transactions occur, rather than other associated test networks such as signet and testnet. Mainnet coins such as ETH and BTC have monetary(...) Read More",
+        "points": 0
+    },
+    "Market Cap": {
+        "address": 0,
+        "description": "This is the total value of a coin or token or, for NFTs, the total of all assets within a collection based on its current market price. For crypto currency, simply multiply a coin by the(...) Read More",
+        "points": 0
+    },
+    "Master Node": {
+        "address": 0,
+        "description": "A master node is like the hub and overseer of a blockchain. It verifies and relays transactions, stores the blockchain\u2019s history, can help with governance and performs other operations. Running(...) Read More",
+        "points": 0
+    },
+    "Maxi": {
+        "address": 0,
+        "description": "Short for Maximialist, a phrase coined by @Vitalik Buterin. A maxi is someone who thinks that their crypto coin/project will be the dominant one in the space and they typically believe only in(...) Read More",
+        "points": 0
+    },
+    "McDonalds": {
+        "address": 0,
+        "description": "When Web3 and the NFT space all goes to zero, we will need to find another source of income. The general consensus is that McDonalds will be our collective Plan B. Read More",
+        "points": 0
+    },
+    "Meat Space": {
+        "address": 0,
+        "description": "Whilst most of our time is spent in cyberspace, our IRL bodies occupy the meat space. AKA the real world. Read More",
+        "points": 0
+    },
+    "Meme": {
+        "address": 0,
+        "description": "If a picture can tell 1,000 words, then a meme can do so much more. Why use real words when you can use a funny picture with words that someone else has written? It\u2019s hilarious and the whole(...) Read More",
+        "points": 0
+    },
+    "Memecoin": {
+        "address": 0,
+        "description": "A crypto currency based on an internet meme. Like $DOGE, they may start out as a joke, but can turn into a movement that makes many early investors considerably wealthy. Generally they are a(...) Read More",
+        "points": 0
+    },
+    "Mempool": {
+        "address": 0,
+        "description": "Short for memory pool, a mempool is a small database of pending transactions on a blockchain. It can create an agonizing wait, like when you buy an NFT and have to wait for the transaction to(...) Read More",
+        "points": 0
+    },
+    "Meta": {
+        "address": 0,
+        "description": "Refers to anything big\u2026 in our industry often used in relation to metaverse. Mark Zuckerberg ruined the Web3 utopia of decentralisation by rebranding Facebook as meta. It would be like a car(...) Read More",
+        "points": 0
+    },
+    "Metaverse": {
+        "address": 0,
+        "description": "The purest demonstration of Web3, the metaverse is a 3D virtual world where you can build, play, explore and experience whatever you like. Sometimes 2d, sometimes implementing VR and AR(...) Read More",
+        "points": 0
+    },
+    "MEV": {
+        "address": 0,
+        "description": "Miner Extracted Value. The poetic term of Ethereum miners that lurk in the shadows of the mempool, look for large trades and frontrun them to profit for themselves. Imagine in the old days when(...) Read More",
+        "points": 0
+    },
+    "Mfer": {
+        "address": 0,
+        "description": "A derogatory term, literally meaning \"mother f**ker\". Also a PFP NFT collection of pencil drawn stick men and women, mostly sitting at computers. Read More",
+        "points": 0
+    },
+    "Mhouser": {
+        "address": 0,
+        "description": "A member of MHOUSE - the international members club for NFT innovators. Read More",
+        "points": 0
+    },
+    "Miners": {
+        "address": 0,
+        "description": "Miners are people who use fast computers, often with graphics cards, to mine, or create, a crypto currency like ETH or BTC. Their work secures the blockchain and they get rewarded in tokens for(...) Read More",
+        "points": 0
+    },
+    "Mining": {
+        "address": 0,
+        "description": "Contrary to popular belief, crypto mining does not involve a shovel and a pick, rather it\u2019s a competitive process of adding new blocks to a blockchain. Mining allows new tokens to be created(...) Read More",
+        "points": 0
+    },
+    "MOAR": {
+        "address": 0,
+        "description": "A misspelling of more. But is more shouty. MOAR!!!! Perfectly used ironically when degens are taking on a falling market. Read More",
+        "points": 0
+    },
+    "Mods": {
+        "address": 0,
+        "description": "The true workhorses of the Web3 and NFT landscape. The moderators of Discord and Twitter channels ensure a safe and healthy space for genuine discussion, assistance and enable a project to(...) Read More",
+        "points": 0
+    },
+    "Moon": {
+        "address": 0,
+        "description": "This means your project/crypto token is rising so much that it will leave the Earth\u2019s atmosphere and hit the moon. Large green candlesticks are appearing on the charts of your project and(...) Read More",
+        "points": 0
+    },
+    "Moonboy": {
+        "address": 0,
+        "description": "Web3 financial experts who live in their parent\u2019s basements and think something is about to \u201cgo to the moon\u201d. Moonboys perform technical analysis on crypto charts after watching a YouTube video(...) Read More",
+        "points": 0
+    },
+    "Mooning": {
+        "address": 0,
+        "description": "An NFT or crypto token is mooning when it is smashing through all the technical analysis charts that the twitterverse experts get paid to shill. Once it hits price discovery territory, the moon(...) Read More",
+        "points": 0
+    },
+    "Multisig": {
+        "address": 0,
+        "description": "Short for a multi-signature wallet, it is a crypto currency wallet that requires two or more signatures to make a transaction. This is ideal for DAOS that require multiple people to sign things(...) Read More",
+        "points": 0
+    },
+    "Never Trust, Always Verify": {
+        "address": 0,
+        "description": "Web3 is full of scammers out for your coins/NFTs. If trust is considered a vulnerability, the only way you can secure your coins is by taking the necessary steps to protect yourself. Use only(...) Read More",
+        "points": 0
+    },
+    "New Coiner": {
+        "address": 0,
+        "description": "Someone who has recently made their first purchase in the crypto space is a new coiner. Whilst it is an exhilarating time, they are also susceptible to FUD and being scammed. We were all newbies(...) Read More",
+        "points": 0
+    },
+    "NFA": {
+        "address": 0,
+        "description": "Short for Not Financial Advice. Whenever you are giving someone crypto or NFT advice, you must finish your sentence with NFA. This means you are not responsible for what happens based on the(...) Read More",
+        "points": 0
+    },
+    "NFT": {
+        "address": 0,
+        "description": "A Non Fungible Token is a unique digital asset that exists on a blockchain. On Ethereum, it is created using ERC1155 or ERC721 standard for non-fungible tokens, as opposed to ERC20 standard for(...) Read More",
+        "points": 0
+    },
+    "NFT Domains": {
+        "address": 0,
+        "description": "NFT domains are minted on the blockchain, such as .ENS or .NFT. They allow the user to set their Web3 username and give them complete ownership of their data. The best use case is that it can be(...) Read More",
+        "points": 0
+    },
+    "NFTer": {
+        "address": 0,
+        "description": "First there were Bitcoiners, then there were crypto people, then DeFi degens\u2026 behold\u2026 the rise of a new demographic: The NFTer. They do not always have a crypto background. They may have entered(...) Read More",
+        "points": 0
+    },
+    "NGMI": {
+        "address": 0,
+        "description": "Short for Not Gonna Make It. The opposite to WGMI or GMI, this state of being is to be avoided at all costs. A bad trading decision, whether selling too low or buying too late deserves a NGMI. Read More",
+        "points": 0
+    },
+    "Nick Szabo": {
+        "address": 0,
+        "description": "One of the founding fathers and pioneers of crypto currency. He developed the concept of smart contracts and created the precursor to Bitcoin called BitGold. If you hold Nick Szabo on your \u2018who(...) Read More",
+        "points": 0
+    },
+    "NMP": {
+        "address": 0,
+        "description": "Short for Not My Problem. Especially handy if you gave some advice and followed it up with NFA. After that, it\u2019s NMP. Read More",
+        "points": 0
+    },
+    "Nocoiner": {
+        "address": 0,
+        "description": "A nocoiner is someone who holds no crypto currency, and probably never will. They cry \u2018Ponzi\u2019 whenever asked and have full faith in the current fiat system. They may even own a gold bar as a(...) Read More",
+        "points": 0
+    },
+    "Node": {
+        "address": 0,
+        "description": "Any device or computer that connects to a blockchain is considered a node. Each one supports the blockchain by validating transactions that are made. Whilst there is no monetary reward for(...) Read More",
+        "points": 0
+    },
+    "Non-fungible": {
+        "address": 0,
+        "description": "Something is non-fungible when it is unique, and not directly interchangeable with anything. That can be due to its properties, production date or any number of unique aspects. A house,(...) Read More",
+        "points": 0
+    },
+    "Nonce": {
+        "address": 0,
+        "description": "Short for Number only used once. All blocks within a blockchain feature an encrypted nonce, which is also known as being hashed. Blockchain miners use computers to solve the mathematical(...) Read More",
+        "points": 0
+    },
+    "Noob": {
+        "address": 0,
+        "description": "Slang for a newbie, which is slang for someone new to the crypto space and is inexperienced. Whilst noobs are ideal for dumping illiquid bags of crypto or NFTs on, we must protect them and guide(...) Read More",
+        "points": 0
+    },
+    "Normie": {
+        "address": 0,
+        "description": "Someone who lives a normal standard life as a productive member of society. They don\u2019t own crypto, they don\u2019t value fungibility and are a slave to their local fiat currency. They have never(...) Read More",
+        "points": 0
+    },
+    "Off-chain": {
+        "address": 0,
+        "description": "When digital data is stored off a blockchain, for example on a central server, it is considered off-chain. Some NFT projects store the data of their projects this way on decentralised servers(...) Read More",
+        "points": 0
+    },
+    "OG": {
+        "address": 0,
+        "description": "OGs are experts in a certain field or niche that were there from the beginning and possibly even invented it. OG stands for Original Gangster. It originates from rapper @Ice-T's track O.G. from(...) Read More",
+        "points": 0
+    },
+    "On-chain": {
+        "address": 0,
+        "description": "An on-chain transaction occurs when the blockchain is modified and verified on the public ledger. On chain data is data that is stored on the blockchain, as opposed to centrally or on IPFS. For(...) Read More",
+        "points": 0
+    },
+    "OP": {
+        "address": 0,
+        "description": "Over-powering. When you are so rich and so skilled and so strong and so invincible that resistance is futile. Read More",
+        "points": 0
+    },
+    "Open Edition": {
+        "address": 0,
+        "description": "An open edition NFT collection has no limit to the amount of NFTs that can be minted. Rather than utilising rarity that 1:1 NFTs or limited edition collections have, this could be a limited time(...) Read More",
+        "points": 0
+    },
+    "Opensea": {
+        "address": 0,
+        "description": "The largest and most decentralised NFT marketplace. Opensea has become ubiquitous with NFT trading as the dominant secondary marketspace in the game. Original collections can also be launched on(...) Read More",
+        "points": 0
+    },
+    "P2E": {
+        "address": 0,
+        "description": "Short for Play to Earn games. p2e games are blockchain based games that feature an open economy that uses tokens as rewards. In an ideal world, these tokens can be traded on crypto exchanges and(...) Read More",
+        "points": 0
+    },
+    "P2P": {
+        "address": 0,
+        "description": "Short for peer to peer network, it\u2019s a network of computers that shares and interacts directly without a central server. This can increase security, transparency and control over an action.(...) Read More",
+        "points": 0
+    },
+    "Paperhands": {
+        "address": 0,
+        "description": "If you buy an NFT or crypto currency planning to hold it, but sell quickly for a loss at the first sign of trouble, you are deemed to have paperhands. This shows weakness and can be a hard(...) Read More",
+        "points": 0
+    },
+    "PLEBS": {
+        "address": 0,
+        "description": "We can talk about whales, dolphins, minnows, fish etc but in reality, crypto can be divided into two types of people \u2013 whales and plebs. As the name suggests, plebs exist to watch @ivan and(...) Read More",
+        "points": 0
+    },
+    "POAP NFT": {
+        "address": 0,
+        "description": "Short for Proof of Attendance Protocol NFT. These can be rewarded to attendees of an event, in the form of a virtual or physical POAP. Utility can be added to them as they are collected. It\u2019s(...) Read More",
+        "points": 0
+    },
+    "PoS": {
+        "address": 0,
+        "description": "Short for Proof of Stake. This is a consensus mechanism for securing and processing transactions on a blockchain and is an alternative to Proof of Work. It requires validators to stake some(...) Read More",
+        "points": 0
+    },
+    "Position": {
+        "address": 0,
+        "description": "In crypto currency trading, you take a position and hope like hell that you are right. A long position means you have purchased a token and are hoping for it to go up. Inversely, a short(...) Read More",
+        "points": 0
+    },
+    "PoW": {
+        "address": 0,
+        "description": "Short for Proof of Work. First popularised by Bitcoin, PoW is a decentralised consensus mechanism that requires blockchain miners to solve complex mathematical puzzles with computers to verify(...) Read More",
+        "points": 0
+    },
+    "Pre-mine": {
+        "address": 0,
+        "description": "Pre-mining is when crypto coins or blockchain based tokens are created ahead of a public launch. These can be used as a reward for early investors in a project or as payment from the organisation. Read More",
+        "points": 0
+    },
+    "Price Discovery": {
+        "address": 0,
+        "description": "That beautiful moment when a coin breaks its ATH and enters the rare space known as price discovery. For example, in the 2020-2022 cycle, Bitcoin broke through previous ATH of \u00b120k and entered(...) Read More",
+        "points": 0
+    },
+    "Private key": {
+        "address": 0,
+        "description": "In cryptography, messages are secured by a combination of public and private keys. Your crypto private key is a randomly generated string of letters and numbers, or sometimes in the form of a(...) Read More",
+        "points": 0
+    },
+    "Probably Nothing": {
+        "address": 0,
+        "description": "In the Web3 world, if a significant event happens, it\u2019s \u2018probably nothing\u2019. Its proof of how the crypto community is really good at keeping their cool and is extensively used in an ironic way. Read More",
+        "points": 0
+    },
+    "Project": {
+        "address": 0,
+        "description": "The collective noun for any new venture in web3, could be a new DeFi protocol or a group of NFTs. These can be generative, a limited series or whatever clever technique the Devs and project(...) Read More",
+        "points": 0
+    },
+    "Proof of Steak": {
+        "address": 0,
+        "description": "An in-joke for crypto degens. Proof of Steak is a great twitter post to tag with a picture of your steak dinner to your crypto mates. Always hilarious. Read More",
+        "points": 0
+    },
+    "Protocol": {
+        "address": 0,
+        "description": "Not all blockchains are the same. Each one has a different set of rules and structures in place \u2013 which are the protocols. While the dominant Web2 protocol is HTTP, each blockchain like BTC, ETH(...) Read More",
+        "points": 0
+    },
+    "Protocol Coin": {
+        "address": 0,
+        "description": "A protocol coin is native to its blockchain and can be used for transactions on its respective blockchain. It can also be sold on crypto exchanges or used as voting rights in a DAO. Read More",
+        "points": 0
+    },
+    "Public Key": {
+        "address": 0,
+        "description": "In cryptography, messages are secured by a combination of public and private keys. Your public key is the address of your crypto wallet. You can share this and other users can send crypto to(...) Read More",
+        "points": 0
+    },
+    "Pump and Dump": {
+        "address": 0,
+        "description": "A pump and dump is a typical scam in the crypto/ NFT world. An asset is hyped up to a fever pitch. Influencers are screaming about it and the FOMO kicks in. The community buy in, raising or(...) Read More",
+        "points": 0
+    },
+    "Raids": {
+        "address": 0,
+        "description": "Twitter raids are when the crypto moonboys all jump onto a post or tag an influencer to pump a project on twitter. The barrage of posts and comments can really show an engaged community that(...) Read More",
+        "points": 0
+    },
+    "Rarity": {
+        "address": 0,
+        "description": "The value of an NFT is often judged in its rarity. And it matters. Whether that is based on the amount in the collection, or the rarity of properties it possesses, NFT degens pay overs for rarity. Read More",
+        "points": 0
+    },
+    "Reaching": {
+        "address": 0,
+        "description": "Someone is reaching if they are really clasping at straws on a topic. It often reveals their biases towards a coin or project. Read More",
+        "points": 0
+    },
+    "Recovery Phase": {
+        "address": 0,
+        "description": "Also known as your seed phrase or secret recovery phrase, this is a set of words that is used to represent your private keys and they authenticate and encrypt your crypto wallet. It is in the(...) Read More",
+        "points": 0
+    },
+    "Rekt": {
+        "address": 0,
+        "description": "As in \u2018get rekt\u2019. A crypto slang term for getting wrecked or being figuratively destroyed. It could be via a rug pull, bad advice or just selling at the bottom. Read More",
+        "points": 0
+    },
+    "Reset the Room": {
+        "address": 0,
+        "description": "When it\u2019s all getting out of hand in a Twitter Spaces and the host is losing control, it\u2019s time to reset the room. Read More",
+        "points": 0
+    },
+    "Reveal": {
+        "address": 0,
+        "description": "The reveal is often the most fun you can have in an NFT project cycle. Many projects delay the reveal to let the dust settle after mint, make sure the contracts are in order and let the(...) Read More",
+        "points": 0
+    },
+    "Right-Click, Save As": {
+        "address": 0,
+        "description": "Normies who don\u2019t understand the transformative nature of NFTs will often claim to \u2018right-click, save as\u2019 and steal your NFTs. Whilst they have a small JPEG of your image, they have neither the(...) Read More",
+        "points": 0
+    },
+    "RN": {
+        "address": 0,
+        "description": "Short for \u2018right now\u2019. There is no patience in the Web3 space. With attention spans so short, if something isn\u2019t delivered RN, the community moves onto the next shiny JPEG that can be flipped(...) Read More",
+        "points": 0
+    },
+    "Roadmap": {
+        "address": 0,
+        "description": "A roadmap outlines the plans for a coi  or an NFT collection beyond the mint day. It shows any strategies, goals and plans the dev team has and can be a great insight into the drive and desires(...) Read More",
+        "points": 0
+    },
+    "Rollup": {
+        "address": 0,
+        "description": "A rollup takes tens, hundreds or thousands of transactions off the blockchain, and rolls them up into one single transaction to be placed back on the blockchain. It is a scaling solution and(...) Read More",
+        "points": 0
+    },
+    "Rug Pull": {
+        "address": 0,
+        "description": "An insidious scam where a crypto project takes the funds that have been raised and disappears. They never deliver on roadmap, provide no further utility and buyers are caught holding the bag.(...) Read More",
+        "points": 0
+    },
+    "Rugged": {
+        "address": 0,
+        "description": "A victim of a rug pull. Someone has packed up quickly and bailed on them, leaving them holding the bags. More recently this term has become commonly used on Twitter spaces to describe the not(...) Read More",
+        "points": 0
+    },
+    "SAFU": {
+        "address": 0,
+        "description": "Slang for \u2018safe\u2019, commonly used in the phrase \u2018funds are safu\u2019. Good crypto and internet security will ensure that your funds and seed phrases are always safu. Don\u2019t be like Wojack\u2026 Read More",
+        "points": 0
+    },
+    "Satoshi Nakamoto": {
+        "address": 0,
+        "description": "Satoshi is the anonymous writer and creator of the Bitcoin whitepaper. More than just a blockchain founder, he/she/they are the philosophical deity for Web3 and the crypto space. Whilst we don\u2019t(...) Read More",
+        "points": 0
+    },
+    "Sats": {
+        "address": 0,
+        "description": "Each Bitcoin is divided into 100 million satoshis or sats. A Satoshi is the smallest amount that can be recorded on the BTC blockchain and is named after Bitcoin\u2019s founding father/ fathers/(...) Read More",
+        "points": 0
+    },
+    "Scalability": {
+        "address": 0,
+        "description": "Part of the blockchain trilemma, scalability refers to the capability of a blockchain to handle large amounts of transactions in a short period of time. This may greatly impact the decision on(...) Read More",
+        "points": 0
+    },
+    "Scam": {
+        "address": 0,
+        "description": "Crypto HODLers and NFT degens need to always be on the lookout for scams. They are so prevalent in the space and can appear in the most innocuous of circumstances. Turn your Discord DMs off,(...) Read More",
+        "points": 0
+    },
+    "Scam Coins": {
+        "address": 0,
+        "description": "Scam coins pose as legitimate crypto coins and exist solely to steal your money. They could be a clone of a real coin or could even be dubbed a pre-mint coin, which turns out to be false. When a(...) Read More",
+        "points": 0
+    },
+    "Scammer": {
+        "address": 0,
+        "description": "Scum of the Web3 world. Scammers live to steal your ETH, crypto or NFT. They will ask for your seed phrase, take control of your computer via a phony helpdesk app or just create a fake project(...) Read More",
+        "points": 0
+    },
+    "Schelling Point": {
+        "address": 0,
+        "description": "The Schelling Point is a key concept in game theory, where independent participants arrive at the same conclusion. It often refers to a focal point in a given field or the solution that we are(...) Read More",
+        "points": 0
+    },
+    "SEC": {
+        "address": 0,
+        "description": "The American \u2018Securities and Exchanges Commission\u2019. Or if you ask an $XRP hodler, the devil incarnate. The SEC is an independent government organisation that regulates financial markets in the(...) Read More",
+        "points": 0
+    },
+    "Secondary Market": {
+        "address": 0,
+        "description": "After an NFT project mints out, the NFTs can be bought and sold on the secondary market. Opensea, Looks Rare, Rarible and Super Rare are Ethereum-based examples of a secondary marketplace. This(...) Read More",
+        "points": 0
+    },
+    "Seed Phrase": {
+        "address": 0,
+        "description": "Your seed phrase is a series of usually 12 or 24 words that are generated by your crypto currency wallet as the master password. Heaven forbids your computer or hard drive breaks down, you can(...) Read More",
+        "points": 0
+    },
+    "Seems Legit": {
+        "address": 0,
+        "description": "Short for seems legitimate. When appraising a project and DYOR, a good outcome would be that a project seems legit. Be careful however because this phrase is used in equal parts for real and(...) Read More",
+        "points": 0
+    },
+    "Seems Rare": {
+        "address": 0,
+        "description": "Similar to \u2018looks rare\u2019. This is used generally sarcastically to appraise someone\u2019s NFT. Whilst we are all chasing sub 1% traits, this phrase might be more directed to a 45% trait. Read More",
+        "points": 0
+    },
+    "Ser": {
+        "address": 0,
+        "description": "Slang for Sir, Ser is a gender-neutral greeting and acknowledgement that we are all still early. It is the greatest sign of respect amongst NFT and crypto hodlers. Read More",
+        "points": 0
+    },
+    "SFT": {
+        "address": 0,
+        "description": "Semi Fungible Tokens start out with an initial value like an NFT, before being redeemed or used for some sort of utility. After that, it loses its value and becomes fungible. A growing space in(...) Read More",
+        "points": 0
+    },
+    "Sharding": {
+        "address": 0,
+        "description": "Sharding is a method of increasing the scalability of a blockchain, by breaking up network nodes into smaller groups. Each shard can then reach consensus and approve a transaction on behalf of(...) Read More",
+        "points": 0
+    },
+    "Shill": {
+        "address": 0,
+        "description": "A shill is a person who heavily promotes something, often while appearing to be independent or objective. Someone shills something when they are heavily promoting a crypto coin or NFT project.(...) Read More",
+        "points": 0
+    },
+    "Shill Thread": {
+        "address": 0,
+        "description": "A shill thread is where an influencer or big investor in the NFT space invites people to post their own projects in a shill thread on twitter. The hope is that the investor will then ape into(...) Read More",
+        "points": 0
+    },
+    "Shitcoin": {
+        "address": 0,
+        "description": "Shitcoins is term for coins that with little to no value, zero purpose to them and they exist to make their founders rich. Their use case is non-existent and should be avoided. The term is also(...) Read More",
+        "points": 0
+    },
+    "Sidechain": {
+        "address": 0,
+        "description": "A sidechain is a chain that is linked to another blockchain, often via a bridge and often with the goal of alleviating congestion on the primary network or provide scalability. This can allow(...) Read More",
+        "points": 0
+    },
+    "Simp": {
+        "address": 0,
+        "description": "When someone in Web3 is trying really really hard to get the attention of someone, they are a simp and are simping. It could be an NFT artist trying to attract the attention of a whale investor.(...) Read More",
+        "points": 0
+    },
+    "Slashing": {
+        "address": 0,
+        "description": "Crypto slashing occurs when a blockchain validator misbehaves and endangers the network. This happens primarily on Proof of Stake networks where validators lock up their tokens, instead of(...) Read More",
+        "points": 0
+    },
+    "SLP": {
+        "address": 0,
+        "description": "SLP is the native ERC-20 gaming token, and income for players, of Axie Infinity. With an unlimited supply, it can be used to breed Axie digital pets. SLP is earnt via completing daily quests or(...) Read More",
+        "points": 0
+    },
+    "Smart Contract": {
+        "address": 0,
+        "description": "A smart contract is a self-executing code on a blockchain. Stored on the public ledger, they can\u2019t be altered by anyone once deployed. These transactions are made on the blockchain without(...) Read More",
+        "points": 0
+    },
+    "SMFH": {
+        "address": 0,
+        "description": "Short for Shaking my Fucking Head. This is used when you come across stupidity levels that are off the Richter Scale. Unfortunately, this happens all too often in the Web3 space these days. Read More",
+        "points": 0
+    },
+    "Soft Fork": {
+        "address": 0,
+        "description": "A soft fork is an update to the blockchain that doesn\u2019t create a separate chain like a hard fork does. Safer to implement than a hard fork and less disruptive, soft forks are backwards(...) Read More",
+        "points": 0
+    },
+    "SOL": {
+        "address": 0,
+        "description": "$SOL is the native crypto currency of the Solana Blockchain. A popular chain for NFTs after Ethereum, it is faster in terms of the transactions per minute it can handle and drastically reduces(...) Read More",
+        "points": 0
+    },
+    "Solidity": {
+        "address": 0,
+        "description": "Solidity is the programming language of the Ethereum EVM, or Virtual Machine. It is used to write smart contracts and powers the blockchain. It was first proposed by Gavin Wood, who developed it(...) Read More",
+        "points": 0
+    },
+    "Soy Boy": {
+        "address": 0,
+        "description": "In the normie world, a soy boy is a derogatory term for someone who isn\u2019t masculine. In the crypto space, it is someone who doesn\u2019t have diamond hands and can\u2019t handle the dips of the market. Read More",
+        "points": 0
+    },
+    "Stable Coin": {
+        "address": 0,
+        "description": "Stable coins are crypto tokens that have their value pegged to another asset like the $USD. Crypto traders like to consolidate gains in stable coins before going on a shopping spree when the(...) Read More",
+        "points": 0
+    },
+    "Staking": {
+        "address": 0,
+        "description": "Staking crypto tokens or NFTs locks them away for a certain amount of time to earn interest. The interest can be paid in similar tokens or in a different currency such as ETH. Staking is used by(...) Read More",
+        "points": 0
+    },
+    "Sweep the Floor": {
+        "address": 0,
+        "description": "A floor sweep happens when someone buys all the NFTs off a project\u2019s floor. This can be a bullish sign of good news incoming or that whales are circling around a project before it moons. Time to(...) Read More",
+        "points": 0
+    },
+    "SZN": {
+        "address": 0,
+        "description": "Slang for season, as in crypto season. Rather than following a calendar season, a SZN can last as little as weeks and generally follows market sentiment. Seasons include Alt season, Solana(...) Read More",
+        "points": 0
+    },
+    "Tard-Fi": {
+        "address": 0,
+        "description": "A slightly insulting and tongue in cheek term used by DeFi degens to describe traditional financial services. It\u2019s fair to say very few crypto OGs have much time for traditional finance, crypto(...) Read More",
+        "points": 0
+    },
+    "TDA": {
+        "address": 0,
+        "description": "Art created using traditional methods that is turned into an NFT. For example an oil painting scanned in high-res. Read More",
+        "points": 0
+    },
+    "Testnet": {
+        "address": 0,
+        "description": "A testnet is a secure environment for testing on a blockchain. Its software mimics the main blockchain and allows devs to test their smart contracts before going live. Its significance cannot be(...) Read More",
+        "points": 0
+    },
+    "Tether": {
+        "address": 0,
+        "description": "Tether, or USDT, is an ERC-20 stablecoin that is pegged to the US Dollar. It is a way for crypto traders to avoid volatility in the market, protecting their assets by transferring in and out of(...) Read More",
+        "points": 0
+    },
+    "This is the Way": {
+        "address": 0,
+        "description": "Crypto traders and NFT lords often see themselves as pioneers of technology. Always battling the status quo to do what\u2019s right. Just like The Mandalorian. His catch cry is used to affirm(...) Read More",
+        "points": 0
+    },
+    "TINA": {
+        "address": 0,
+        "description": "Short for There Is No Alternative. Whilst there isn\u2019t a lot of consensus in the crypto space, when it is found, we have TINA. Read More",
+        "points": 0
+    },
+    "TINA RIF": {
+        "address": 0,
+        "description": "Short for There is no alternative, resistance is futile. Perfect for when you need to explain the beauty of crypto to normies. Read More",
+        "points": 0
+    },
+    "Token": {
+        "address": 0,
+        "description": "A token is a digital asset that appears on its own blockchain. It can be bought, sold and traded like fiat currencies, and can represent either digital or physical assets. Token can also be used(...) Read More",
+        "points": 0
+    },
+    "Tokenomics": {
+        "address": 0,
+        "description": "Tokenomics is looking at a crypto currency beyond the name and funny dog picture. It is studying the supply, the emissions, the burning, the incentives that may affect the price of a crypto(...) Read More",
+        "points": 0
+    },
+    "Total Supply": {
+        "address": 0,
+        "description": "Crypto currencies have a total supply which indicates the amount of tokens that are already created minus those that have been burned. Not be confused with max supply, the total number of coins(...) Read More",
+        "points": 0
+    },
+    "TPS": {
+        "address": 0,
+        "description": "Short for transactions per second. A key metric for blockchain efficacy, the TPS refers to how many transactions per second a blockchain can handle. The Bitcoin blockchain TPS is approximately(...) Read More",
+        "points": 0
+    },
+    "Trait": {
+        "address": 0,
+        "description": "NFTs within a large collection are often divided by the traits they feature, which helps to make each NFT unique. Traits can vary in rareness and will have the greatest influence on pricing(...) Read More",
+        "points": 0
+    },
+    "TVL": {
+        "address": 0,
+        "description": "Short for Total Value Locked. This is the overall value of crypto assets deposited in a DeFi protocol. It\u2019s an important metric for determining the health of a project, and includes all coins(...) Read More",
+        "points": 0
+    },
+    "Txn Hash": {
+        "address": 0,
+        "description": "The id produced on the blockchain that represents a particular transaction. Imagine Amarantha sends Bartholomew some ETH. There will be a sending address, a receiving address and a transaction(...) Read More",
+        "points": 0
+    },
+    "Ultrasound Money": {
+        "address": 0,
+        "description": "One of the many questionable memes in the Ethereum community. In their eternal struggle to one-up Bitcoiners, they tried to co-opt the idea of \"hard money\" or \"sound money\" by claiming ETH was(...) Read More",
+        "points": 0
+    },
+    "Up Only": {
+        "address": 0,
+        "description": "That period in a full-on bull market when token prices all seem to just permanently go up. Every single coin whether Bitcoin, scamcoin, vaporware or other just seem to pump forever. This(...) Read More",
+        "points": 0
+    },
+    "USDC": {
+        "address": 0,
+        "description": "A stable crypto coin created by Circle with a value pegged one-to-one to the US dollar and cleverly named US Dollar Coin or US Dollar Circle - USDC. Ostensibly it is fully backed by dollar(...) Read More",
+        "points": 0
+    },
+    "USDT": {
+        "address": 0,
+        "description": "A stable crypto coin with a value pegged or \u201ctethered\u201done-to-one to the US dollar and cleverly named US Dollar Tether - USDT. Ostensibly it is fully backed by dollar reserves. Second only to(...) Read More",
+        "points": 0
+    },
+    "Utility": {
+        "address": 0,
+        "description": "The \"raison d'etre\" of a coin... what does it do? Typically, this was a term to evade securities laws where it was argued the tokens were not securities or breaking laws because the coin was(...) Read More",
+        "points": 0
+    },
+    "Vale": {
+        "address": 0,
+        "description": "When you say goodbye to something that is dying. Or has already died. Read More",
+        "points": 0
+    },
+    "Valhalla": {
+        "address": 0,
+        "description": "The heaven of Norse and Scandinavians. The place you go after you died a heroic death in battle. The answer to all of your needs. In crypto, this means the place you go after HODLing through(...) Read More",
+        "points": 0
+    },
+    "Vaporware": {
+        "address": 0,
+        "description": "Crypto currencies or tokens or projects that are hyped up but actually have no technology or team whatsoever behind them. Think hardware, software or if there really is nothing at all(...) Read More",
+        "points": 0
+    },
+    "Volatile": {
+        "address": 0,
+        "description": "The wild fluctuation of the price of an asset. \"Stable\" assets should have low volatility. Crypto on the other hand.... Read More",
+        "points": 0
+    },
+    "WAGMI": {
+        "address": 0,
+        "description": "The height of comradery of the crypto, web3 and NFT community. We're All Gonna Make It. Which in a zero-sum market is technically impossible, but let's not let details spoil a gm. The opposite(...) Read More",
+        "points": 0
+    },
+    "Wallet": {
+        "address": 0,
+        "description": "A leather container frequently found in a Boomers pocket full of pieces of plastic that they insist have intrinsic value, as opposed to your non-custodial immutable blockchain money which they(...) Read More",
+        "points": 0
+    },
+    "Wallet Address": {
+        "address": 0,
+        "description": "The public key that you can share with people to receive crypto.. or more recently to be whitelisted for a token drop. Sometimes shortened to \"addy\" or \"addie\" Read More",
+        "points": 0
+    },
+    "Web1": {
+        "address": 0,
+        "description": "Web1 was so long ago nobody really remembers what it was. We think it was the first web pages that mirrored newspapers with static content that was posted to be read. The precursor to(...) Read More",
+        "points": 0
+    },
+    "Web2": {
+        "address": 0,
+        "description": "By using or accessing Facebook Services, you agree that we can collect and use such content and information in accordance with the Data Policy as amended from time to time. Read More",
+        "points": 0
+    },
+    "Web3": {
+        "address": 0,
+        "description": "The term used to describe the new crypto-based web economy that runs on Ethereum-compatible wallet sign-ins like MetaMask, along with crypto payments, NFTs and metaverse functionality.(...) Read More",
+        "points": 0
+    },
+    "Wei": {
+        "address": 0,
+        "description": "A fraction of ETH. A very small fraction. So small that 1 ETH = 1,000,000,000,000,000,000 wei (10 to the power of 18). Impress your friends (?) by telling them it is named after Wei Dai, a(...) Read More",
+        "points": 0
+    },
+    "Wen": {
+        "address": 0,
+        "description": "When... but you are in such a rush for the thing to happen (usually a 10x or lambo money) that you do not even have time to use the h. Read More",
+        "points": 0
+    },
+    "Wen Lambo": {
+        "address": 0,
+        "description": "Similar to \"Wen Moon?\"... wen lambo is the eternal question of the crypto degen desperately praying for a 10x in their latest ponzi. Read More",
+        "points": 0
+    },
+    "Wen Moon": {
+        "address": 0,
+        "description": "The eternal bear market question. Hours, days and years of staring at a screen full of red numbers watching net worth bleed out and all the time wondering when your coin or NFT will go to the moon. Read More",
+        "points": 0
+    },
+    "WETH": {
+        "address": 0,
+        "description": "Wrapped ETH, a form of Ether that is used often on open sea and trades at exactly the same price as ETH. The real thing to learn with WETH is how to pronounce it. Is it WETH... or is it WETH?(...) Read More",
+        "points": 0
+    },
+    "Whale": {
+        "address": 0,
+        "description": "A trad-fi 80s term that made it to crypto. It denotes an investor with such a large portfolio they dwarf all the other fish in the sea and cause a large splash whenever they make a move. Can(...) Read More",
+        "points": 0
+    },
+    "Whitelist": {
+        "address": 0,
+        "description": "Often a new NFT drop will have a private sale and a public sale. Being on the whitelist means your wallet address is allowed to mint in the private sale, guaranteeing that you will get at least(...) Read More",
+        "points": 0
+    },
+    "Whitelist Games": {
+        "address": 0,
+        "description": "In order to get a whitelist spot, NFT projects may ask to complete certain tasks like social media posts or Discord posts. Sometimes these will become very elaborate, with puzzles and hints(...) Read More",
+        "points": 0
+    },
+    "Whitepaper": {
+        "address": 0,
+        "description": "A document outlining the purpose of a coin and the (technical) solution it provides. The first whitepaper was for Bitcoin and later a whitepaper became a legal requirement for an ICO.(...) Read More",
+        "points": 0
+    },
+    "Wojak": {
+        "address": 0,
+        "description": "A meme character that appeared first in Polish meme sites, then on 4chan and made its way into online and crypto culture. Wojak is a pencil drawing of a character with a melancholy or wistful(...) Read More",
+        "points": 0
+    },
+    "Worthless Governance Token": {
+        "address": 0,
+        "description": "A tongue in cheek description for DeFi (Decentralized Finance) tokens that became insanely popular in DeFi summer 2020. The term was created in response to the SEC and other securities(...) Read More",
+        "points": 0
+    },
+    "Yield Farming": {
+        "address": 0,
+        "description": "A phenomenon that appeared during DeFi summer, took the crypto world by storm and continues to this day. It is all based around liquidity. Lock up your funds and receive what in tradfi would be(...) Read More",
+        "points": 0
+    },
+    "YODO": {
+        "address": 0,
+        "description": "You Only Die Once. The opposite of YOLO. Not technically accurate in crypto as even sound investments that are down 90% can often go down another 90%. Read More",
+        "points": 0
+    },
+    "YOLO": {
+        "address": 0,
+        "description": "You Only Live Once. A general term used to describe a carefree attitude. In crypto usually precedes the act of aping large percentage of net worth into a ponzi that will soon be at zero. Read More",
+        "points": 0
+    }
+}
